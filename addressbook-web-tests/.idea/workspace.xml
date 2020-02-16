@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa6f7ada-8539-4c90-acc5-ca6905dab082" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/java_pft.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/ru/stqa/pft/addressbook/CreateNewGroupTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/classes/ru/stqa/pft/addressbook/CreateNewGroupTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/CreateNewGroupTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../from_mozilla_SeleniumIDE/Test_login_adressbook.side" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/5.6.2/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/distributions/test_project_1.tar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/distributions/test_project_1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/libs/test_project_1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/scripts/test_project_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/scripts/test_project_1.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/out/production/classes/ru/stqa/pft/sandbox/MyFirstProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/out/production/classes/ru/stqa/pft/sandbox/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/out/production/classes/ru/stqa/pft/sandbox/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/out/test/classes/ru/stqa/pft/sandbox/SquareTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/ru/stqa/pft/sandbox/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/main/java/ru/stqa/pft/sandbox/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sandbox/src/test/java/ru/stqa/pft/sandbox/SquareTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -175,7 +103,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
