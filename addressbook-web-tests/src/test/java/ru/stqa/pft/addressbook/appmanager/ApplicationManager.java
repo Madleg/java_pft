@@ -1,6 +1,5 @@
 package ru.stqa.pft.addressbook.appmanager;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
@@ -11,8 +10,7 @@ public class ApplicationManager {
   private NavigationHelper navigationHelper;
   private GroupHelper groupHelper;
 
-
-  public void init() {
+   public void init() {
     System.setProperty("webdriver.chrome.driver", "C:/tools/chromedriver.exe");
     wd = new ChromeDriver();
     wd.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
@@ -23,13 +21,7 @@ public class ApplicationManager {
     sessionHelper.login("admin", "secret");
   }
 
-
-
-  public void setDriver() {
-
-  }
-
-  public void stop() {
+   public void stop() {
     wd.quit();
   }
 
