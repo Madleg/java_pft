@@ -3,54 +3,64 @@ package ru.stqa.pft.addressbook.model;
 import java.util.Objects;
 
 public class GroupData {
-  private final String name;
-  private final String header;
-  private final String footer1;
-  private final String footer2;
-  private int id;
+  private int id = Integer.MAX_VALUE;
+  private String name;
+  private String header;
+  private String footer1;
+  private String footer2;
 
-
-  public GroupData(String name, String header, String footer1, String footer2) {
-    this.id = Integer.MAX_VALUE;
-    this.name = name;
-    this.header = header;
-    this.footer1 = footer1;
-    this.footer2 = footer2;
-  }
-
-  public GroupData(int id, String name, String header, String footer1, String footer2) {
-    this.id = id;
-
-    this.name = name;
-    this.header = header;
-    this.footer1 = footer1;
-    this.footer2 = footer2;
-  }
 
 
   public int getId() {
     return id;
   }
 
-  public void setId(int id) {
-    this.id = id;
-  }
-
   public String getName() {
     return name;
   }
+
+
+  public GroupData withId(int id) {
+    this.id = id;
+    return this;
+  }
+
+
+  public GroupData withName(String name) {
+    this.name = name;
+    return this;
+  }
+
+  public GroupData withHeader(String header) {
+    this.header = header;
+    return this;
+  }
+
+  public GroupData withFooter1(String footer1) {
+    this.footer1 = footer1;
+    return this;
+  }
+
+  public GroupData withFooter2(String footer2) {
+    this.footer2 = footer2;
+    return this;
+  }
+
 
   public String getHeader() {
     return header;
   }
 
+
   public String getFooter1() {
     return footer1;
   }
 
+
   public String getFooter2() {
     return footer2;
   }
+
 
   @Override
   public String toString() {
