@@ -1,7 +1,7 @@
 .gradle
 build/
-.idea/workspace.xml
-addressbook-web-tests/.idea/workspace.xml
+.idea/
+addressbook-web-tests/.idea/
 
 # Ignore Gradle GUI config
 gradle-app.setting
